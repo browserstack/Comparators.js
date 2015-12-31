@@ -16,3 +16,5 @@ Sample project to run Jasmine tests on BrowserStack using BrowserStack-Runner
 
 ###Sample test
  - To run: `browserstack-runner`
+ 
+More details on BrowserStack-Runner available [here](https://github.com/browserstack/browserstack-runner).
