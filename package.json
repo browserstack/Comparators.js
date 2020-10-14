@@ -20,6 +20,6 @@
   "license": "MIT",
   "devDependencies": {
     "jasmine-node": "~1.13.1",
-    "uglify-js"   : "~2.4.0"
+    "uglify-js"   : "~3.11.2"
   }
 }
